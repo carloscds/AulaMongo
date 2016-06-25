@@ -1,0 +1,13 @@
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Bson.dll
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Driver.dll
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Bson.xml
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Driver.xml
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\cds.cdsserver\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

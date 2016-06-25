@@ -1,5 +1,8 @@
+https://github.com/carloscds/AulaMongo
 1. conectar no servidor:
-   mongodb://<usuario>:<senha>@ds023644.mlab.com:23644/exercicio2016
+
+   mongodb://pos:univem@ds023654.mlab.com:23654/exercicio2016
+
 
 2. criar uma collection com seu ID_Nome
 

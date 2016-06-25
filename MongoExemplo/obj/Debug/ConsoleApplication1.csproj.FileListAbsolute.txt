@@ -1,0 +1,26 @@
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\MongoDB.Bson.xml
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\cds\documents\visual studio 2013\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Treinamento\MongoExemplo\bin\Debug\ConsoleApplication1.exe.config
+D:\Treinamento\MongoExemplo\obj\Debug\ConsoleApplication1.exe
+D:\Treinamento\MongoExemplo\obj\Debug\ConsoleApplication1.pdb
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\ConsoleApplication1.exe.config
+D:\Treinamento\Mongo\MongoExemplo\obj\Debug\ConsoleApplication1.exe
+D:\Treinamento\Mongo\MongoExemplo\obj\Debug\ConsoleApplication1.pdb
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\ConsoleApplication1.exe
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\ConsoleApplication1.pdb
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Bson.dll
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Driver.Core.dll
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Driver.dll
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Bson.xml
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Driver.xml
+D:\Treinamento\Mongo\MongoExemplo\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Treinamento\Mongo\MongoExemplo\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

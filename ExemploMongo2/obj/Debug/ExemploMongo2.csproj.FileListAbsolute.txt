@@ -1,0 +1,13 @@
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\ExemploMongo2.exe
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\ExemploMongo2.pdb
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\MongoDB.Bson.dll
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\MongoDB.Driver.dll
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\MongoDB.Bson.xml
+d:\treinamento\mongo\ExemploMongo2\bin\Debug\MongoDB.Driver.xml
+d:\treinamento\mongo\ExemploMongo2\obj\Debug\ExemploMongo2.csprojResolveAssemblyReference.cache
+d:\treinamento\mongo\ExemploMongo2\obj\Debug\ExemploMongo2.exe
+d:\treinamento\mongo\ExemploMongo2\obj\Debug\ExemploMongo2.pdb
+D:\Treinamento\Mongo\ExemploMongo2\bin\Debug\ExemploMongo2.exe.config
+D:\Treinamento\Mongo\ExemploMongo2\bin\Debug\MongoDB.Driver.Core.dll
+D:\Treinamento\Mongo\ExemploMongo2\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Treinamento\Mongo\ExemploMongo2\bin\Debug\MongoDB.Driver.Legacy.xml

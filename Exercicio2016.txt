@@ -1,0 +1,22 @@
+1. conectar no servidor:
+   mongodb://<usuario>:<senha>@ds023644.mlab.com:23644/exercicio2016
+
+2. criar uma collection com seu ID_Nome
+
+3. inserir registros de Produtos (id, nome, nomegrupo, saldo, preco)
+   - insira ao menos 5 registros diferentes
+
+4. retornar todos os produtos
+
+5. retornar produtos com saldo > 5
+
+6. retornar produtos com preco > 100
+
+7. atualizar todos os produtos colocando saldo = 10
+
+8. deletar um produto
+
+9. retornar a soma de todos os saldos dos produtos
+
+10. retornar o saldo grupos do produto
+    grupo - saldo
